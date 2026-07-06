@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Environment variables / secrets
+.env
+*.env
+key.env.py
+
+# Test/debug files
+debug.png
+*.png
+scan_region.png
+
+# Distribution
+dist/
+build/
+*.egg-info/
